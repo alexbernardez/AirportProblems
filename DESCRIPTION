@@ -48,3 +48,5 @@ Encoding: UTF-8
 LazyData: True
 NeedsCompilation: no
 RoxygenNote: 7.3.2
+URL: https://github.com/alexbernardez/AirportProblems
+BugReports: https://github.com/alexbernardez/AirportProblems/issues
