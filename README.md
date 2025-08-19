@@ -29,4 +29,4 @@ citation("AirportProblems")
 ```
 Or use the canonical form directly:
 
-Bernárdez Ferradás, Á., Sánchez Rodríguez, E., Mirás Calvo, M. Á., and Quinteiro Sandomingo, C. (2025). *AirportProblems: Analysis of Cost Allocation for Airport Problems*. R package version 0.1.0. [https://doi.org/10.32614/CRAN.package.AirportProblems](https://doi.org/10.32614/CRAN.package.AirportProblems)
+> Bernárdez Ferradás, Á., Sánchez Rodríguez, E., Mirás Calvo, M. Á., and Quinteiro Sandomingo, C. (2025). *AirportProblems: Analysis of Cost Allocation for Airport Problems*. R package version 0.1.0. [https://doi.org/10.32614/CRAN.package.AirportProblems](https://doi.org/10.32614/CRAN.package.AirportProblems)
