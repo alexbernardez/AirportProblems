@@ -7,7 +7,7 @@
 
 ## Description
 
-`AirportProblems` is an R package for analyzing cost allocation problems where agents share a facility’s cost based on their needs, respecting no-subsidy constraints. It implements several allocation rules from the literature, provides graphical tools for comparison, and includes example datasets illustrating practical applications.
+`AirportProblems` is an R package for analyzing cost allocation problems, where agents share the cost of a facility or service based on their needs, respecting no-subsidy constraints. It implements several allocation rules from the literature, provides graphical tools for comparison, and includes example datasets illustrating practical applications.
 
 ## Installation
 
